@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\uht\\cryptraider.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraider\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\unrealgame\\development\\cryptraider\\definitions.cryptraider.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\uht\\cryptraidergamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraider\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\unrealgame\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\source\\cryptraider\\cryptraidergamemode.h",
+            "c:\\users\\user\\desktop\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\users\\user\\desktop\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\users\\user\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\users\\user\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\uht\\cryptraidergamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

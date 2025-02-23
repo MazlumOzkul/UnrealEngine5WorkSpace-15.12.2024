@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\source\\cryptraider\\triggercomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\cryptraider\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\x64\\unrealgame\\development\\cryptraider\\definitions.cryptraider.h",
+            "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\source\\cryptraider\\triggercomponent.h",
+            "c:\\users\\user\\desktop\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\users\\user\\desktop\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\users\\user\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\users\\user\\desktop\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\source\\cryptraider\\mover.h",
+            "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\uht\\mover.generated.h",
+            "c:\\unreal engine 5.4 beginner file\\cryptraider\\cryptraider\\intermediate\\build\\win64\\unrealgame\\inc\\cryptraider\\uht\\triggercomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
