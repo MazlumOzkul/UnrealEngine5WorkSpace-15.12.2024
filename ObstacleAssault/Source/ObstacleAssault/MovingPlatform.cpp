@@ -61,7 +61,12 @@ void AMovingPlatform::BeginPlay()
     {
         PlatformVelocity = FVector(-1500,0, 0);
 		MoveDistance = 3000;
-    }   
+    }
+    else if(Name == FName("BP_PushingCube_C_0")) 
+    {
+        PlatformVelocity = FVector(500,0, 0);
+		MoveDistance = 2000;
+    }      
     else if(Name == FName("BP_RotatingPlatform_C_1")) 
     {
         RotationVelocity = FRotator(0,200, 0);
